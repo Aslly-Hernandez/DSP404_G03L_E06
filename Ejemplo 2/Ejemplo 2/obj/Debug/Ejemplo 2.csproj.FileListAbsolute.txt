@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Escritorio\Guia01_DPS\Ejemplo 2\Ejemplo 2\bin\Debug\Ejemplo 2.exe.config
+C:\Users\HP\OneDrive\Escritorio\Guia01_DPS\Ejemplo 2\Ejemplo 2\bin\Debug\Ejemplo 2.exe
+C:\Users\HP\OneDrive\Escritorio\Guia01_DPS\Ejemplo 2\Ejemplo 2\bin\Debug\Ejemplo 2.pdb
+C:\Users\HP\OneDrive\Escritorio\Guia01_DPS\Ejemplo 2\Ejemplo 2\obj\Debug\Ejemplo 2.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Escritorio\Guia01_DPS\Ejemplo 2\Ejemplo 2\obj\Debug\Ejemplo_2.Form1.resources
+C:\Users\HP\OneDrive\Escritorio\Guia01_DPS\Ejemplo 2\Ejemplo 2\obj\Debug\Ejemplo_2.Properties.Resources.resources
+C:\Users\HP\OneDrive\Escritorio\Guia01_DPS\Ejemplo 2\Ejemplo 2\obj\Debug\Ejemplo 2.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Escritorio\Guia01_DPS\Ejemplo 2\Ejemplo 2\obj\Debug\Ejemplo 2.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Escritorio\Guia01_DPS\Ejemplo 2\Ejemplo 2\obj\Debug\Ejemplo 2.exe
+C:\Users\HP\OneDrive\Escritorio\Guia01_DPS\Ejemplo 2\Ejemplo 2\obj\Debug\Ejemplo 2.pdb

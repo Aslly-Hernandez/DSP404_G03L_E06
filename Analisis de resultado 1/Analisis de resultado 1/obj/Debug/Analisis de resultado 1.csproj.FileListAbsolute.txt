@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Escritorio\Guia01_DPS\Analisis de resultado 1\Analisis de resultado 1\bin\Debug\Analisis de resultado 1.exe.config
+C:\Users\HP\OneDrive\Escritorio\Guia01_DPS\Analisis de resultado 1\Analisis de resultado 1\bin\Debug\Analisis de resultado 1.exe
+C:\Users\HP\OneDrive\Escritorio\Guia01_DPS\Analisis de resultado 1\Analisis de resultado 1\bin\Debug\Analisis de resultado 1.pdb
+C:\Users\HP\OneDrive\Escritorio\Guia01_DPS\Analisis de resultado 1\Analisis de resultado 1\obj\Debug\Analisis de resultado 1.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Escritorio\Guia01_DPS\Analisis de resultado 1\Analisis de resultado 1\obj\Debug\Analisis_de_resultado_1.Form1.resources
+C:\Users\HP\OneDrive\Escritorio\Guia01_DPS\Analisis de resultado 1\Analisis de resultado 1\obj\Debug\Analisis_de_resultado_1.Properties.Resources.resources
+C:\Users\HP\OneDrive\Escritorio\Guia01_DPS\Analisis de resultado 1\Analisis de resultado 1\obj\Debug\Analisis de resultado 1.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Escritorio\Guia01_DPS\Analisis de resultado 1\Analisis de resultado 1\obj\Debug\Analisis de resultado 1.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Escritorio\Guia01_DPS\Analisis de resultado 1\Analisis de resultado 1\obj\Debug\Analisis de resultado 1.exe
+C:\Users\HP\OneDrive\Escritorio\Guia01_DPS\Analisis de resultado 1\Analisis de resultado 1\obj\Debug\Analisis de resultado 1.pdb
