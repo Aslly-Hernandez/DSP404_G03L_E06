@@ -1,0 +1,10 @@
+C:\Users\Ricardo Salazar\Desktop\Ciclo II\Desarrollo de Aplicaciones con Software Propietario\Guia2\Parte3_Guia2\Parte3_Guia2\bin\Debug\Parte3_Guia2.exe.config
+C:\Users\Ricardo Salazar\Desktop\Ciclo II\Desarrollo de Aplicaciones con Software Propietario\Guia2\Parte3_Guia2\Parte3_Guia2\bin\Debug\Parte3_Guia2.exe
+C:\Users\Ricardo Salazar\Desktop\Ciclo II\Desarrollo de Aplicaciones con Software Propietario\Guia2\Parte3_Guia2\Parte3_Guia2\bin\Debug\Parte3_Guia2.pdb
+C:\Users\Ricardo Salazar\Desktop\Ciclo II\Desarrollo de Aplicaciones con Software Propietario\Guia2\Parte3_Guia2\Parte3_Guia2\obj\Debug\Parte3_Guia2.csproj.AssemblyReference.cache
+C:\Users\Ricardo Salazar\Desktop\Ciclo II\Desarrollo de Aplicaciones con Software Propietario\Guia2\Parte3_Guia2\Parte3_Guia2\obj\Debug\Parte3_Guia2.frmReves.resources
+C:\Users\Ricardo Salazar\Desktop\Ciclo II\Desarrollo de Aplicaciones con Software Propietario\Guia2\Parte3_Guia2\Parte3_Guia2\obj\Debug\Parte3_Guia2.Properties.Resources.resources
+C:\Users\Ricardo Salazar\Desktop\Ciclo II\Desarrollo de Aplicaciones con Software Propietario\Guia2\Parte3_Guia2\Parte3_Guia2\obj\Debug\Parte3_Guia2.csproj.GenerateResource.cache
+C:\Users\Ricardo Salazar\Desktop\Ciclo II\Desarrollo de Aplicaciones con Software Propietario\Guia2\Parte3_Guia2\Parte3_Guia2\obj\Debug\Parte3_Guia2.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo Salazar\Desktop\Ciclo II\Desarrollo de Aplicaciones con Software Propietario\Guia2\Parte3_Guia2\Parte3_Guia2\obj\Debug\Parte3_Guia2.exe
+C:\Users\Ricardo Salazar\Desktop\Ciclo II\Desarrollo de Aplicaciones con Software Propietario\Guia2\Parte3_Guia2\Parte3_Guia2\obj\Debug\Parte3_Guia2.pdb

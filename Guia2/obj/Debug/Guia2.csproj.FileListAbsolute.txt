@@ -1,0 +1,20 @@
+C:\Users\Ricardo Salazar\Desktop\Ciclo II\Desarrollo de Aplicaciones con Software Propietario\Guia2\Guia2\obj\Debug\Guia2.csproj.AssemblyReference.cache
+C:\Users\Ricardo Salazar\Desktop\Ciclo II\Desarrollo de Aplicaciones con Software Propietario\Guia2\Guia2\obj\Debug\Guia2.FrmFactorial.resources
+C:\Users\Ricardo Salazar\Desktop\Ciclo II\Desarrollo de Aplicaciones con Software Propietario\Guia2\Guia2\obj\Debug\Guia2.Properties.Resources.resources
+C:\Users\Ricardo Salazar\Desktop\Ciclo II\Desarrollo de Aplicaciones con Software Propietario\Guia2\Guia2\obj\Debug\Guia2.csproj.GenerateResource.cache
+C:\Users\Ricardo Salazar\Desktop\Ciclo II\Desarrollo de Aplicaciones con Software Propietario\Guia2\Guia2\obj\Debug\Guia2.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo Salazar\Desktop\Ciclo II\Desarrollo de Aplicaciones con Software Propietario\Guia2\Guia2\bin\Debug\Guia2.exe.config
+C:\Users\Ricardo Salazar\Desktop\Ciclo II\Desarrollo de Aplicaciones con Software Propietario\Guia2\Guia2\bin\Debug\Guia2.exe
+C:\Users\Ricardo Salazar\Desktop\Ciclo II\Desarrollo de Aplicaciones con Software Propietario\Guia2\Guia2\bin\Debug\Guia2.pdb
+C:\Users\Ricardo Salazar\Desktop\Ciclo II\Desarrollo de Aplicaciones con Software Propietario\Guia2\Guia2\obj\Debug\Guia2.exe
+C:\Users\Ricardo Salazar\Desktop\Ciclo II\Desarrollo de Aplicaciones con Software Propietario\Guia2\Guia2\obj\Debug\Guia2.pdb
+C:\Users\HP\Downloads\Guia2 (2)\Guia2\Guia2\bin\Debug\Guia2.exe.config
+C:\Users\HP\Downloads\Guia2 (2)\Guia2\Guia2\bin\Debug\Guia2.exe
+C:\Users\HP\Downloads\Guia2 (2)\Guia2\Guia2\bin\Debug\Guia2.pdb
+C:\Users\HP\Downloads\Guia2 (2)\Guia2\Guia2\obj\Debug\Guia2.csproj.AssemblyReference.cache
+C:\Users\HP\Downloads\Guia2 (2)\Guia2\Guia2\obj\Debug\Guia2.frmFactorial.resources
+C:\Users\HP\Downloads\Guia2 (2)\Guia2\Guia2\obj\Debug\Guia2.Properties.Resources.resources
+C:\Users\HP\Downloads\Guia2 (2)\Guia2\Guia2\obj\Debug\Guia2.csproj.GenerateResource.cache
+C:\Users\HP\Downloads\Guia2 (2)\Guia2\Guia2\obj\Debug\Guia2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Downloads\Guia2 (2)\Guia2\Guia2\obj\Debug\Guia2.exe
+C:\Users\HP\Downloads\Guia2 (2)\Guia2\Guia2\obj\Debug\Guia2.pdb
