@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Escritorio\Guia 3 _DSP\Ejemplo 1\Ejemplo 1\bin\Debug\Ejemplo 1.exe.config
+C:\Users\HP\OneDrive\Escritorio\Guia 3 _DSP\Ejemplo 1\Ejemplo 1\bin\Debug\Ejemplo 1.exe
+C:\Users\HP\OneDrive\Escritorio\Guia 3 _DSP\Ejemplo 1\Ejemplo 1\bin\Debug\Ejemplo 1.pdb
+C:\Users\HP\OneDrive\Escritorio\Guia 3 _DSP\Ejemplo 1\Ejemplo 1\obj\Debug\Ejemplo 1.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Escritorio\Guia 3 _DSP\Ejemplo 1\Ejemplo 1\obj\Debug\Ejemplo_1.Form1.resources
+C:\Users\HP\OneDrive\Escritorio\Guia 3 _DSP\Ejemplo 1\Ejemplo 1\obj\Debug\Ejemplo_1.Properties.Resources.resources
+C:\Users\HP\OneDrive\Escritorio\Guia 3 _DSP\Ejemplo 1\Ejemplo 1\obj\Debug\Ejemplo 1.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Escritorio\Guia 3 _DSP\Ejemplo 1\Ejemplo 1\obj\Debug\Ejemplo 1.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Escritorio\Guia 3 _DSP\Ejemplo 1\Ejemplo 1\obj\Debug\Ejemplo 1.exe
+C:\Users\HP\OneDrive\Escritorio\Guia 3 _DSP\Ejemplo 1\Ejemplo 1\obj\Debug\Ejemplo 1.pdb

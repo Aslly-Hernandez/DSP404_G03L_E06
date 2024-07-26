@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Escritorio\Guia 3 _DSP\Dsicusion2\Dsicusion2\obj\Debug\Dsicusion2.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Escritorio\Guia 3 _DSP\Dsicusion2\Dsicusion2\obj\Debug\Dsicusion2.Form1.resources
+C:\Users\HP\OneDrive\Escritorio\Guia 3 _DSP\Dsicusion2\Dsicusion2\obj\Debug\Dsicusion2.Properties.Resources.resources
+C:\Users\HP\OneDrive\Escritorio\Guia 3 _DSP\Dsicusion2\Dsicusion2\obj\Debug\Dsicusion2.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Escritorio\Guia 3 _DSP\Dsicusion2\Dsicusion2\obj\Debug\Dsicusion2.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Escritorio\Guia 3 _DSP\Dsicusion2\Dsicusion2\bin\Debug\Dsicusion2.exe.config
+C:\Users\HP\OneDrive\Escritorio\Guia 3 _DSP\Dsicusion2\Dsicusion2\bin\Debug\Dsicusion2.exe
+C:\Users\HP\OneDrive\Escritorio\Guia 3 _DSP\Dsicusion2\Dsicusion2\bin\Debug\Dsicusion2.pdb
+C:\Users\HP\OneDrive\Escritorio\Guia 3 _DSP\Dsicusion2\Dsicusion2\obj\Debug\Dsicusion2.exe
+C:\Users\HP\OneDrive\Escritorio\Guia 3 _DSP\Dsicusion2\Dsicusion2\obj\Debug\Dsicusion2.pdb

@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Escritorio\Guia 3 _DSP\Discusion3\Discusion3\bin\Debug\Discusion3.exe.config
+C:\Users\HP\OneDrive\Escritorio\Guia 3 _DSP\Discusion3\Discusion3\bin\Debug\Discusion3.exe
+C:\Users\HP\OneDrive\Escritorio\Guia 3 _DSP\Discusion3\Discusion3\bin\Debug\Discusion3.pdb
+C:\Users\HP\OneDrive\Escritorio\Guia 3 _DSP\Discusion3\Discusion3\obj\Debug\Discusion3.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Escritorio\Guia 3 _DSP\Discusion3\Discusion3\obj\Debug\Discusion3.FormCargarDatos.resources
+C:\Users\HP\OneDrive\Escritorio\Guia 3 _DSP\Discusion3\Discusion3\obj\Debug\Discusion3.Properties.Resources.resources
+C:\Users\HP\OneDrive\Escritorio\Guia 3 _DSP\Discusion3\Discusion3\obj\Debug\Discusion3.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Escritorio\Guia 3 _DSP\Discusion3\Discusion3\obj\Debug\Discusion3.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Escritorio\Guia 3 _DSP\Discusion3\Discusion3\obj\Debug\Discusion3.exe
+C:\Users\HP\OneDrive\Escritorio\Guia 3 _DSP\Discusion3\Discusion3\obj\Debug\Discusion3.pdb
