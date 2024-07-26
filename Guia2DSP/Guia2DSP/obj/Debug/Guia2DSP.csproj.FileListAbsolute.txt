@@ -1,0 +1,12 @@
+C:\Users\Paola\Desktop\GuiasDSP2024\Guia2DSP\Guia2DSP\obj\Debug\Guia2DSP.csproj.AssemblyReference.cache
+C:\Users\Paola\Desktop\GuiasDSP2024\Guia2DSP\Guia2DSP\obj\Debug\Guia2DSP.frmFactorial.resources
+C:\Users\Paola\Desktop\GuiasDSP2024\Guia2DSP\Guia2DSP\obj\Debug\Guia2DSP.Properties.Resources.resources
+C:\Users\Paola\Desktop\GuiasDSP2024\Guia2DSP\Guia2DSP\obj\Debug\Guia2DSP.csproj.GenerateResource.cache
+C:\Users\Paola\Desktop\GuiasDSP2024\Guia2DSP\Guia2DSP\obj\Debug\Guia2DSP.csproj.CoreCompileInputs.cache
+C:\Users\Paola\Desktop\GuiasDSP2024\Guia2DSP\Guia2DSP\bin\Debug\Guia2DSP.exe.config
+C:\Users\Paola\Desktop\GuiasDSP2024\Guia2DSP\Guia2DSP\bin\Debug\Guia2DSP.exe
+C:\Users\Paola\Desktop\GuiasDSP2024\Guia2DSP\Guia2DSP\bin\Debug\Guia2DSP.pdb
+C:\Users\Paola\Desktop\GuiasDSP2024\Guia2DSP\Guia2DSP\obj\Debug\Guia2DSP.exe
+C:\Users\Paola\Desktop\GuiasDSP2024\Guia2DSP\Guia2DSP\obj\Debug\Guia2DSP.pdb
+C:\Users\Paola\Desktop\GuiasDSP2024\Guia2DSP\Guia2DSP\obj\Debug\Guia2DSP.frmCesar.resources
+C:\Users\Paola\Desktop\GuiasDSP2024\Guia2DSP\Guia2DSP\obj\Debug\Guia2DSP.frmReves.resources
