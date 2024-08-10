@@ -9,7 +9,7 @@ namespace Ejercicio1
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-            progressBar1.Increment(4);
+            progressBar1.Increment(2);
             label1.Text = progressBar1.Value.ToString() + "%";
 
             if (progressBar1.Value == progressBar1.Maximum)
@@ -19,6 +19,11 @@ namespace Ejercicio1
                 FormLogin formLogin = new FormLogin();
                 formLogin.ShowDialog();
             }
+        }
+
+        private void progressBar1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
