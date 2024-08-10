@@ -43,23 +43,23 @@
             // 
             // progressBar1
             // 
-            progressBar1.Location = new Point(37, 215);
+            progressBar1.Location = new Point(36, 215);
             progressBar1.Maximum = 101;
             progressBar1.Name = "progressBar1";
-            progressBar1.Size = new Size(526, 27);
+            progressBar1.Size = new Size(528, 27);
             progressBar1.TabIndex = 0;
-            progressBar1.Click += progressBar1_Click;
             // 
             // label1
             // 
             label1.AutoSize = true;
             label1.BackColor = Color.Transparent;
-            label1.Font = new Font("Comic Sans MS", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label1.Location = new Point(285, 256);
+            label1.Font = new Font("Comic Sans MS", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label1.Location = new Point(286, 262);
             label1.Name = "label1";
-            label1.Size = new Size(60, 35);
+            label1.Size = new Size(48, 27);
             label1.TabIndex = 1;
             label1.Text = "0 %";
+            label1.Click += label1_Click;
             // 
             // Form1
             // 
@@ -69,8 +69,10 @@
             ClientSize = new Size(600, 300);
             Controls.Add(label1);
             Controls.Add(progressBar1);
+            FormBorderStyle = FormBorderStyle.Fixed3D;
             Name = "Form1";
-            Text = "Form1";
+            StartPosition = FormStartPosition.CenterScreen;
+            Text = "Bienvenida";
             ResumeLayout(false);
             PerformLayout();
         }

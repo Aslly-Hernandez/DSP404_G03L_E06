@@ -42,74 +42,79 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Font = new Font("Times New Roman", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label1.Location = new Point(33, 172);
+            label1.Font = new Font("Times New Roman", 12F, FontStyle.Bold);
+            label1.Location = new Point(38, 212);
             label1.Name = "label1";
-            label1.Size = new Size(72, 21);
+            label1.Size = new Size(66, 19);
             label1.TabIndex = 0;
             label1.Text = "Usuario:";
             // 
             // label2
             // 
             label2.AutoSize = true;
-            label2.Font = new Font("Times New Roman", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label2.Location = new Point(33, 237);
+            label2.Font = new Font("Times New Roman", 12F, FontStyle.Bold);
+            label2.Location = new Point(38, 272);
             label2.Name = "label2";
-            label2.Size = new Size(98, 21);
+            label2.Size = new Size(91, 19);
             label2.TabIndex = 1;
             label2.Text = "Contraseña:";
             // 
             // pictureBox1
             // 
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
-            pictureBox1.Location = new Point(143, 12);
+            pictureBox1.Location = new Point(128, 12);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(147, 126);
+            pictureBox1.Size = new Size(165, 162);
             pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
-            pictureBox1.TabIndex = 3;
+            pictureBox1.TabIndex = 2;
             pictureBox1.TabStop = false;
-            pictureBox1.Click += pictureBox1_Click;
             // 
             // txtUsuario
             // 
-            txtUsuario.Location = new Point(131, 170);
+            txtUsuario.Location = new Point(135, 212);
             txtUsuario.Name = "txtUsuario";
-            txtUsuario.Size = new Size(186, 23);
-            txtUsuario.TabIndex = 4;
+            txtUsuario.Size = new Size(207, 23);
+            txtUsuario.TabIndex = 3;
             // 
             // txtContra
             // 
-            txtContra.Location = new Point(131, 237);
+            txtContra.Location = new Point(135, 272);
             txtContra.Name = "txtContra";
-            txtContra.Size = new Size(186, 23);
-            txtContra.TabIndex = 5;
+            txtContra.Size = new Size(207, 23);
+            txtContra.TabIndex = 4;
             // 
             // btnIngresar
             // 
-            btnIngresar.Font = new Font("Times New Roman", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            btnIngresar.Location = new Point(131, 314);
+            btnIngresar.BackColor = Color.FromArgb(128, 255, 128);
+            btnIngresar.FlatStyle = FlatStyle.Popup;
+            btnIngresar.Font = new Font("Times New Roman", 12F, FontStyle.Bold);
+            btnIngresar.ForeColor = SystemColors.ControlText;
+            btnIngresar.Location = new Point(92, 340);
             btnIngresar.Name = "btnIngresar";
-            btnIngresar.Size = new Size(75, 35);
-            btnIngresar.TabIndex = 6;
+            btnIngresar.Size = new Size(91, 35);
+            btnIngresar.TabIndex = 5;
             btnIngresar.Text = "Ingresar";
-            btnIngresar.UseVisualStyleBackColor = true;
+            btnIngresar.UseVisualStyleBackColor = false;
+            btnIngresar.Click += btnIngresar_Click;
             // 
             // btnCancelar
             // 
-            btnCancelar.Font = new Font("Times New Roman", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            btnCancelar.Location = new Point(242, 314);
+            btnCancelar.BackColor = Color.FromArgb(255, 128, 128);
+            btnCancelar.FlatStyle = FlatStyle.Popup;
+            btnCancelar.Font = new Font("Times New Roman", 12F, FontStyle.Bold);
+            btnCancelar.ForeColor = SystemColors.ControlText;
+            btnCancelar.Location = new Point(231, 340);
             btnCancelar.Name = "btnCancelar";
-            btnCancelar.Size = new Size(75, 35);
-            btnCancelar.TabIndex = 7;
+            btnCancelar.Size = new Size(91, 35);
+            btnCancelar.TabIndex = 6;
             btnCancelar.Text = "Cancelar";
-            btnCancelar.UseVisualStyleBackColor = true;
-            btnCancelar.Click += button2_Click;
+            btnCancelar.UseVisualStyleBackColor = false;
             // 
             // FormLogin
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(401, 374);
+            ClientSize = new Size(409, 400);
             Controls.Add(btnCancelar);
             Controls.Add(btnIngresar);
             Controls.Add(txtContra);
@@ -118,6 +123,7 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Name = "FormLogin";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Login";
             FormClosing += FormLogin_FormClosing;
             Load += FormLogin_Load;

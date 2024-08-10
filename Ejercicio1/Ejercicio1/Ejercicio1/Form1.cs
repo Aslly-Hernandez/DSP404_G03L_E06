@@ -7,6 +7,11 @@ namespace Ejercicio1
             InitializeComponent();
         }
 
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
         private void timer1_Tick(object sender, EventArgs e)
         {
             progressBar1.Increment(2);
@@ -19,10 +24,6 @@ namespace Ejercicio1
                 FormLogin formLogin = new FormLogin();
                 formLogin.ShowDialog();
             }
-        }
-
-        private void progressBar1_Click(object sender, EventArgs e)
-        {
 
         }
     }

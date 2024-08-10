@@ -12,14 +12,10 @@ namespace Ejercicio1
 {
     public partial class FormLogin : Form
     {
+        BDUSUARIOS bdusuarios = new BDUSUARIOS();
         public FormLogin()
         {
             InitializeComponent();
-        }
-
-        private void FormLogin_Load(object sender, EventArgs e)
-        {
-
         }
 
         private void FormLogin_FormClosing(object sender, FormClosingEventArgs e)
@@ -27,19 +23,24 @@ namespace Ejercicio1
             Application.Exit();
         }
 
-        private void pictureBox1_Click(object sender, EventArgs e)
+        private void FormLogin_Load(object sender, EventArgs e)
         {
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void btnIngresar_Click(object sender, EventArgs e)
         {
+            if (txtUsuario.Text == bdusuarios.usuario[0,0] && txtContra.Text == bdusuarios.usuario[1, 0])
+            {
+                this.Hide();
+                MessageBox.Show("Bienvenido/a");
+                FormInformacion formInformacion = new FormInformacion();
 
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            Close();
+            }
+            else
+            {
+                MessageBox.Show("Usuario o contraseña incorrecto");
+            }
         }
     }
 }
