@@ -43,6 +43,16 @@ namespace Ejercicio2
             {
                 lblMensaje.Text = "Número de cuenta no válido. Inténtelo de nuevo.";
             }
+
+        }
+        private void MostrarMenu()
+        {
+            lblMensaje.Text += "\nSeleccione una opción:\n" +
+                "1. Consulta de saldo\n" +
+                "2. Retiro de fondos\n" +
+                "3. Consignaciones\n" +
+                "4. Transferencias\n" +
+                "5. Salir";
         }
     }
 }
