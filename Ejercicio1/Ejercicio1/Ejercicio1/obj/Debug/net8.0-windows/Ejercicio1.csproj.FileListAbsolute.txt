@@ -17,8 +17,3 @@ C:\Users\Paola\source\repos\Ejercicio1\Ejercicio1\obj\Debug\net8.0-windows\Ejerc
 C:\Users\Paola\source\repos\Ejercicio1\Ejercicio1\obj\Debug\net8.0-windows\Ejercicio1.genruntimeconfig.cache
 C:\Users\Paola\source\repos\Ejercicio1\Ejercicio1\obj\Debug\net8.0-windows\ref\Ejercicio1.dll
 C:\Users\Paola\source\repos\Ejercicio1\Ejercicio1\obj\Debug\net8.0-windows\Ejercicio1.FormInformacion.resources
-C:\Users\Paola\source\repos\Ejercicio1\Ejercicio1\bin\Debug\net8.0-windows\LiveCharts.dll
-C:\Users\Paola\source\repos\Ejercicio1\Ejercicio1\bin\Debug\net8.0-windows\LiveCharts.WinForms.dll
-C:\Users\Paola\source\repos\Ejercicio1\Ejercicio1\bin\Debug\net8.0-windows\LiveCharts.Wpf.dll
-C:\Users\Paola\source\repos\Ejercicio1\Ejercicio1\obj\Debug\net8.0-windows\Ejercicio1.csproj.AssemblyReference.cache
-C:\Users\Paola\source\repos\Ejercicio1\Ejercicio1\obj\Debug\net8.0-windows\Ejercicio1.csproj.Up2Date
