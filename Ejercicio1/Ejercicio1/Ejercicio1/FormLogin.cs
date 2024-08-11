@@ -12,7 +12,6 @@ namespace Ejercicio1
 {
     public partial class FormLogin : Form
     {
-        BDUSUARIOS bdusuarios = new BDUSUARIOS();
         public FormLogin()
         {
             InitializeComponent();
@@ -20,7 +19,7 @@ namespace Ejercicio1
 
         private void FormLogin_FormClosing(object sender, FormClosingEventArgs e)
         {
-            Application.Exit();
+          
         }
 
         private void FormLogin_Load(object sender, EventArgs e)
@@ -30,17 +29,45 @@ namespace Ejercicio1
 
         private void btnIngresar_Click(object sender, EventArgs e)
         {
-            if (txtUsuario.Text == bdusuarios.usuario[0,0] && txtContra.Text == bdusuarios.usuario[1, 0])
+            string usuario = txtUsuario.Text;
+            string contra = txtContra.Text;
+
+            if (usuario == "" || contra == "")
             {
+                MessageBox.Show("Ingrese todos los campos");
+                return;
+            }
+
+            if (usuario == "Usuario1" && contra == "contraseña")
+            {
+                FormInformacion formInformacion = new FormInformacion();
+                formInformacion.Show();
                 this.Hide();
                 MessageBox.Show("Bienvenido/a");
-                FormInformacion formInformacion = new FormInformacion();
-
+             
             }
             else
             {
-                MessageBox.Show("Usuario o contraseña incorrecto");
+                if (usuario == "Usuario2" && contra == "contraseña")
+                {
+                    FormInformacion formInformacion = new FormInformacion();
+                    formInformacion.Show();
+                    this.Hide();
+                    MessageBox.Show("Bienvenido/a");
+
+                }
+                else
+                {
+                    MessageBox.Show("Usuario no registrado");
+                    return;
+                }
             }
+
+        }
+
+        private void btnCancelar_Click(object sender, EventArgs e)
+        {
+            Close();
         }
     }
 }

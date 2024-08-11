@@ -82,6 +82,7 @@
             txtContra.Name = "txtContra";
             txtContra.Size = new Size(207, 23);
             txtContra.TabIndex = 4;
+            txtContra.UseSystemPasswordChar = true;
             // 
             // btnIngresar
             // 
@@ -109,11 +110,13 @@
             btnCancelar.TabIndex = 6;
             btnCancelar.Text = "Cancelar";
             btnCancelar.UseVisualStyleBackColor = false;
+            btnCancelar.Click += btnCancelar_Click;
             // 
             // FormLogin
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.FromArgb(255, 224, 192);
             ClientSize = new Size(409, 400);
             Controls.Add(btnCancelar);
             Controls.Add(btnIngresar);
@@ -122,6 +125,7 @@
             Controls.Add(pictureBox1);
             Controls.Add(label2);
             Controls.Add(label1);
+            MaximizeBox = false;
             Name = "FormLogin";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Login";

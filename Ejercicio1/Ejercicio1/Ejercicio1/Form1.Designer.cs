@@ -70,6 +70,7 @@
             Controls.Add(label1);
             Controls.Add(progressBar1);
             FormBorderStyle = FormBorderStyle.Fixed3D;
+            MaximizeBox = false;
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Bienvenida";
