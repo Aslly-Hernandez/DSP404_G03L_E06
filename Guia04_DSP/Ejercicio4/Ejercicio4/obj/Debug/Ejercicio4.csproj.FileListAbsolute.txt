@@ -1,0 +1,5 @@
+C:\Users\HP\OneDrive\Escritorio\Guia04_DSP\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Escritorio\Guia04_DSP\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.Form1.resources
+C:\Users\HP\OneDrive\Escritorio\Guia04_DSP\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.Properties.Resources.resources
+C:\Users\HP\OneDrive\Escritorio\Guia04_DSP\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Escritorio\Guia04_DSP\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.CoreCompileInputs.cache
