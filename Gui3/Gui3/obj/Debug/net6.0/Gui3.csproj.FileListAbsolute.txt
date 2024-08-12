@@ -1,0 +1,14 @@
+C:\Users\MINEDUCYT\source\repos\Gui3\Gui3\bin\Debug\net6.0\Gui3.exe
+C:\Users\MINEDUCYT\source\repos\Gui3\Gui3\bin\Debug\net6.0\Gui3.deps.json
+C:\Users\MINEDUCYT\source\repos\Gui3\Gui3\bin\Debug\net6.0\Gui3.runtimeconfig.json
+C:\Users\MINEDUCYT\source\repos\Gui3\Gui3\bin\Debug\net6.0\Gui3.dll
+C:\Users\MINEDUCYT\source\repos\Gui3\Gui3\bin\Debug\net6.0\Gui3.pdb
+C:\Users\MINEDUCYT\source\repos\Gui3\Gui3\obj\Debug\net6.0\Gui3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\source\repos\Gui3\Gui3\obj\Debug\net6.0\Gui3.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\source\repos\Gui3\Gui3\obj\Debug\net6.0\Gui3.AssemblyInfo.cs
+C:\Users\MINEDUCYT\source\repos\Gui3\Gui3\obj\Debug\net6.0\Gui3.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\Gui3\Gui3\obj\Debug\net6.0\Gui3.dll
+C:\Users\MINEDUCYT\source\repos\Gui3\Gui3\obj\Debug\net6.0\refint\Gui3.dll
+C:\Users\MINEDUCYT\source\repos\Gui3\Gui3\obj\Debug\net6.0\Gui3.pdb
+C:\Users\MINEDUCYT\source\repos\Gui3\Gui3\obj\Debug\net6.0\Gui3.genruntimeconfig.cache
+C:\Users\MINEDUCYT\source\repos\Gui3\Gui3\obj\Debug\net6.0\ref\Gui3.dll
