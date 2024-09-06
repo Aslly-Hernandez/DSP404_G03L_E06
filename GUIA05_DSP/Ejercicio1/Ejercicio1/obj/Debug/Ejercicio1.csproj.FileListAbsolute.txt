@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Escritorio\GUIA05_DSP\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Escritorio\GUIA05_DSP\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.frmRegistoEmpleados.resources
+C:\Users\HP\OneDrive\Escritorio\GUIA05_DSP\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+C:\Users\HP\OneDrive\Escritorio\GUIA05_DSP\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Escritorio\GUIA05_DSP\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Escritorio\GUIA05_DSP\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\HP\OneDrive\Escritorio\GUIA05_DSP\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\HP\OneDrive\Escritorio\GUIA05_DSP\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\HP\OneDrive\Escritorio\GUIA05_DSP\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\HP\OneDrive\Escritorio\GUIA05_DSP\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
