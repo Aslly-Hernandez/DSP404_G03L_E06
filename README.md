@@ -1,4 +1,4 @@
-# DSP404_G02L_E06
+# DSP404_G03L_E06
 Enlaces:
 
 Base de datos: https://drive.google.com/file/d/1vMiq5RCV6_k7EWGb0gYDcMhxsqiZ6_dn/view?usp=drive_link
