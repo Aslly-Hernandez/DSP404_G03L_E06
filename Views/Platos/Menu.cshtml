@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewBag.Title = "Menu";
+}
+
+@model List<RestauranteWebApp.Models.Plato>
+
+<h2>Menú</h2>
+<form action="/Pedido/SeleccionarPlatos" method="post">
+    @foreach (var plato in Model)
+    {
+        <div>
+            <input type="checkbox" name="platoIds" value="@plato.Id" />
+            <label>@plato.Nombre - @plato.Precio.ToString("C")</label>
+            <p>@plato.Descripcion</p>
+        </div>
+    }
+    <input type="hidden" name="platoIds" value="" />
+    <button type="submit">Ordenar</button>
+</form>
+
